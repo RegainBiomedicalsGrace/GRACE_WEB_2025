@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "grace": "GRACE",
+    "documents": "Documentos",
+    "team": "Nuestro Equipo",
+    "language": "ES | EN"
+  },
+  "home": {
+    "hero": {
+      "title": "Tecnología para una vida sin temblores",
+      "subtitle": "GRACE es un dispositivo portátil no invasivo que reduce el temblor esencial en segundos.",
+      "cta1": "Únete al estudio",
+      "cta2": "Conocer GRACE"
+    },
+    "product": {
+      "title": "Presentamos GRACE",
+      "description": "Tecnología revolucionaria no invasiva diseñada para reducir el temblor esencial instantáneamente.",
+      "cta": "Explorar GRACE"
+    },
+    "about": {
+      "title": "Acerca de Regain Biomedical",
+      "content": "Regain Biomedical desarrolla soluciones médicas accesibles, portátiles y efectivas para mejorar la calidad de vida de quienes viven con temblores esenciales.",
+      "commitment": "Nuestro compromiso es desarrollar tecnología médica que sea accesible, efectiva y que mejore realmente la calidad de vida de las personas."
+    },
+    "testimonials": {
+      "title": "Lo que dicen nuestros pacientes",
+      "testimonial1": "GRACE ha cambiado mi vida. Finalmente puedo escribir y tomar café sin vergüenza.",
+      "author1": "María",
+      "age1": "65",
+      "avatar1": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      "testimonial2": "La reducción del temblor fue inmediata. No podía creer lo bien que funcionaba.",
+      "author2": "Carlos",
+      "age2": "58",
+      "avatar2": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      "testimonial3": "Finalmente, una solución que no requiere cirugía ni medicamentos. GRACE es increíble.",
+      "author3": "Ana",
+      "age3": "72",
+      "avatar3": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
+    },
+    "prefootercta": {
+      "title": "¿Quieres formar parte del estudio clínico?",
+      "description": "Únete a cientos de pacientes que ya están experimentando los beneficios de GRACE. Tu participación contribuye al avance de la medicina y puede transformar tu calidad de vida.",
+      "cta": "Quiero participar"
+    }
+  },
+  "grace": {
+    "what": {
+      "title": "¿Qué es GRACE?",
+      "content": "GRACE es un dispositivo portátil revolucionario que utiliza tecnología avanzada no invasiva para reducir el temblor esencial en segundos, proporcionando alivio inmediato sin cirugía ni medicamentos."
+    },
+    "how": {
+      "title": "¿Cómo funciona GRACE?",
+      "video": "Video explicativo: Cómo GRACE reduce el temblor en segundos",
+      "steps": {
+        "placement": {
+          "title": "Colocación",
+          "desc": "Se coloca el dispositivo en la muñeca de forma cómoda y segura"
+        },
+        "activation": {
+          "title": "Activación",
+          "desc": "La estimulación vibrotáctil se activa interrumpiendo las señales neurales"
+        },
+        "result": {
+          "title": "Resultado",
+          "desc": "Reducción inmediata del temblor, permitiendo actividades normales"
+        }
+      }
+    },
+    "action": {
+      "title": "GRACE en Acción: Antes y Después",
+      "desc": "Observa la diferencia inmediata que GRACE hace en la vida de pacientes reales.",
+      "before": {
+        "title": "Antes de usar GRACE",
+        "desc": "Paciente con temblor esencial intentando realizar actividades cotidianas como escribir o tomar una taza"
+      },
+      "after": {
+        "title": "Después de usar GRACE",
+        "desc": "El mismo paciente realizando las mismas actividades con GRACE, mostrando una reducción significativa del temblor"
+      }
+    },
+    "benefits": {
+      "title": "Beneficios del uso de GRACE",
+      "b1": {
+        "title": "Disminuye el temblor en segundos",
+        "desc": "Resultados inmediatos desde el primer uso"
+      },
+      "b2": {
+        "title": "No requiere cirugía",
+        "desc": "Completamente no invasivo y sin efectos secundarios"
+      },
+      "b3": {
+        "title": "Fácil de usar y portátil",
+        "desc": "Diseño ergonómico para uso diario cómodo"
+      },
+      "b4": {
+        "title": "Aprobado éticamente y probado clínicamente",
+        "desc": "Validado por estudios científicos rigurosos"
+      }
+    },
+    "results": {
+      "title": "Resultados Clínicos",
+      "desc": "Los estudios clínicos demuestran la efectividad de GRACE en la reducción del temblor esencial",
+      "r1": {
+        "value": "85%",
+        "title": "Reducción del temblor",
+        "desc": "de pacientes experimentan mejora significativa"
+      },
+      "r2": {
+        "value": "30s",
+        "title": "Tiempo de respuesta",
+        "desc": "promedio para notar mejoras"
+      },
+      "r3": {
+        "value": "95%",
+        "title": "Satisfacción",
+        "desc": "de usuarios recomendarían GRACE"
+      },
+      "chartsTitle": "Gráficas de Efectividad",
+      "charts1": "Gráfica: Antes vs Después",
+      "charts2": "Progreso a lo largo del tiempo"
+    },
+    "carousel": {
+      "title": "GRACE en la Vida Real",
+      "slide1": {
+        "title": "Persona escribiendo con GRACE",
+        "desc": "Actividades de escritura sin temblor"
+      },
+      "slide2": {
+        "title": "Mediciones clínicas",
+        "desc": "Datos científicos y mediciones"
+      },
+      "slide3": {
+        "title": "Primer plano del dispositivo",
+        "desc": "Detalles técnicos de GRACE"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para probar GRACE?",
+      "desc": "Únete a nuestro estudio clínico y experimenta la diferencia que GRACE puede hacer en tu vida.",
+      "button": "Unirse al estudio clínico"
+    }
+  },
+  "documents": {
+    "title": "Documentos",
+    "subtitle": "Accede a toda la documentación técnica, estudios clínicos y recursos sobre GRACE y el temblor esencial."
+  },
+  "team": {
+    "title": "Nuestro Equipo",
+    "subtitle": "Somos un equipo interdisciplinario comprometido con la innovación médica desde Chile.",
+    "members": {
+      "member1": {
+        "name": "Rubén Flores",
+        "role": "CEO"
+      },
+      "member2": {
+        "name": "Cedric Little",
+        "role": "COO"
+      },
+      "member3": {
+        "name": "Pablo Prato",
+        "role": "CFO"
+      },
+      "member4": {
+        "name": "Felipe Nagel",
+        "role": "CPO"
+      },
+      "member5": {
+        "name": "Mathias Reusser",
+        "role": "Desarrollo de Producto"
+      },
+      "member6": {
+        "name": "Bastián Vásquez",
+        "role": "Desarrollo de Producto"
+      }
+    }
+  },
+  "footer": {
+    "description": "Desarrollamos soluciones médicas accesibles, portátiles y efectivas para mejorar la calidad de vida.",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados."
+  }
+}

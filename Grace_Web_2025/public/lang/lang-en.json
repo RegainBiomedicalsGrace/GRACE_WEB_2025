@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "home": "Home",
+    "grace": "GRACE",
+    "documents": "Documents",
+    "team": "Our Team",
+    "language": "ES | EN"
+  },
+  "home": {
+    "hero": {
+      "title": "Technology for a life without tremors",
+      "subtitle": "GRACE is a non-invasive portable device that reduces essential tremor in seconds.",
+      "cta1": "Join the clinical study",
+      "cta2": "Learn about GRACE"
+    },
+    "product": {
+      "title": "Introducing GRACE",
+      "description": "Revolutionary non-invasive technology designed to reduce essential tremor instantly.",
+      "cta": "Explore GRACE"
+    },
+    "about": {
+      "title": "About Regain Biomedical",
+      "content": "Regain Biomedical develops accessible, portable and effective medical solutions to improve the quality of life for those living with essential tremors.",
+      "commitment": "Our commitment is to develop medical technology that is accessible, effective, and truly improves people's quality of life."
+    },
+    "testimonials": {
+      "title": "What our patients say",
+      "testimonial1": "GRACE has changed my life. I can finally write and drink coffee without embarrassment.",
+      "author1": "Maria",
+      "age1": "65",
+      "avatar1": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      "testimonial2": "The reduction in tremor was immediate. I couldn't believe how well it worked.",
+      "author2": "Carlos",
+      "age2": "58",
+      "avatar2": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      "testimonial3": "Finally, a solution that doesn't require surgery or medication. GRACE is amazing.",
+      "author3": "Ana",
+      "age3": "72",
+      "avatar3": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
+    },
+    "prefootercta": {
+      "title": "Do you want to be part of the clinical study?",
+      "description": "Join hundreds of patients already experiencing the benefits of GRACE. Your participation contributes to medical advancement and can transform your quality of life.",
+      "cta": "I want to participate"
+    }
+  },
+  "grace": {
+    "what": {
+      "title": "What is GRACE?",
+      "content": "GRACE is a revolutionary portable device that uses advanced non-invasive technology to reduce essential tremor in seconds, providing immediate relief without surgery or medication."
+    },
+    "how": {
+      "title": "How It Works",
+      "video": "Explanatory video: How GRACE reduces tremor in seconds",
+      "steps": {
+        "placement": {
+          "title": "Placement",
+          "desc": "The device is comfortably and securely placed on the wrist"
+        },
+        "activation": {
+          "title": "Activation",
+          "desc": "Vibrotactile stimulation is activated, interrupting neural signals"
+        },
+        "result": {
+          "title": "Result",
+          "desc": "Immediate tremor reduction, enabling normal activities"
+        }
+      }
+    },
+    "action": {
+      "title": "GRACE in Action: Before and After",
+      "desc": "See the immediate difference GRACE makes in real patients' lives.",
+      "before": {
+        "title": "Before using GRACE",
+        "desc": "Patient with essential tremor trying to perform daily activities like writing or holding a cup"
+      },
+      "after": {
+        "title": "After using GRACE",
+        "desc": "The same patient performing the same activities with GRACE, showing significant tremor reduction"
+      }
+    },
+    "benefits": {
+      "title": "Benefits of Using GRACE",
+      "b1": {
+        "title": "Reduces tremor in seconds",
+        "desc": "Immediate results from the first use"
+      },
+      "b2": {
+        "title": "No surgery required",
+        "desc": "Completely non-invasive and without side effects"
+      },
+      "b3": {
+        "title": "Easy to use and portable",
+        "desc": "Ergonomic design for comfortable daily use"
+      },
+      "b4": {
+        "title": "Ethically approved and clinically tested",
+        "desc": "Validated by rigorous scientific studies"
+      }
+    },
+    "results": {
+      "title": "Clinical Results",
+      "desc": "Clinical studies demonstrate the effectiveness of GRACE in reducing essential tremor",
+      "r1": {
+        "value": "85%",
+        "title": "Tremor reduction",
+        "desc": "of patients experience significant improvement"
+      },
+      "r2": {
+        "value": "30s",
+        "title": "Response time",
+        "desc": "average time to notice improvements"
+      },
+      "r3": {
+        "value": "95%",
+        "title": "Satisfaction",
+        "desc": "of users would recommend GRACE"
+      },
+      "chartsTitle": "Effectiveness Charts",
+      "charts1": "Chart: Before vs After",
+      "charts2": "Progress over time"
+    },
+    "carousel": {
+      "title": "GRACE in Real Life",
+      "slide1": {
+        "title": "Person writing with GRACE",
+        "desc": "Writing activities without tremor"
+      },
+      "slide2": {
+        "title": "Clinical measurements",
+        "desc": "Scientific data and measurements"
+      },
+      "slide3": {
+        "title": "Device close-up",
+        "desc": "Technical details of GRACE"
+      }
+    },
+    "cta": {
+      "title": "Ready to try GRACE?",
+      "desc": "Join our clinical study and experience the difference GRACE can make in your life.",
+      "button": "Join clinical study"
+    }
+  },
+  "documents": {
+    "title": "Documents",
+    "subtitle": "Access all technical documentation, clinical studies and resources about GRACE and essential tremor."
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "We are an interdisciplinary team committed to medical innovation from Chile.",
+    "members": {
+      "member1": {
+        "name": "Rubén Flores",
+        "role": "CEO"
+      },
+      "member2": {
+        "name": "Cedric Little",
+        "role": "COO"
+      },
+      "member3": {
+        "name": "Pablo Prato",
+        "role": "CFO"
+      },
+      "member4": {
+        "name": "Felipe Nagel",
+        "role": "CPO"
+      },
+      "member5": {
+        "name": "Mathias Reusser",
+        "role": "Product Development"
+      },
+      "member6": {
+        "name": "Bastián Vásquez",
+        "role": "Product Development"
+      }
+    }
+  },
+  "footer": {
+    "description": "We develop accessible, portable and effective medical solutions to improve quality of life.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  }
+}
